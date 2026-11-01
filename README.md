@@ -1,2 +1,4 @@
 # Music-in-Spotlight
-  Fully functional music feature in Spotlight; *Super Mario 3D World's* Stage Editor, with sound effects and stuffs yeah ts insane
+  Music Feature in Spotlight with sound effects for a full immersive experience
+
+  Super Mario 3D World Stage Editor
